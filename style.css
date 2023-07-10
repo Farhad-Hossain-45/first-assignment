@@ -95,10 +95,32 @@ padding: 85px 45px 0 45px;
     padding: 85px 45px 0 45px;
 }
 .flower-center{
-    margin: 0 24px 0 24px;
+    margin: 0 40px 0 40px;
 }
-
-
+.delivery-section{
+    display: flex;
+    /* width: 1350px; */
+    width: 1035px;
+    height: 250px;
+    background-color: rgba(39, 39, 39, 0.05);
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 128px;
+}
+.delivery-img{
+    width: 88px;
+    height: 88px;
+   margin-bottom: 10px;
+   
+    
+}
+.fresh-flower{
+    margin: 0 100px;
+}
+.delivery-discription{
+    text-align: center;
+}
 
 
 
