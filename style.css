@@ -43,11 +43,65 @@ body{
 }
 .btn{
     border-radius: 8px;
-background: #E55473;
-padding: 16px 30px;
-color: white;
-border: none;
+    background: #E55473;
+    padding: 16px 30px;
+    color: white;
+    border: none;
+}
+.featured-container{
+    text-align: center;
+    margin-top: 160px;
+}
+.featured-title{
+    font-size: 40px;
+    color: #272727;
 }    
+.featured-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+.flowers-container{
+    display: flex;
+    justify-content: center;
+}
+.flower-title{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 27px;
+    font-size: 20px;
+    color: #272727;
+    
+}
+.flower-img{
+    width: 310px;
+    height: 428px;
+    /* border: 1px solid; */
+    border-radius: 300px 300px 0px 0px;
+
+}
+.left{
+background-color: rgba(167, 33, 98, 0.15);
+padding: 85px 45px 0 45px;
+
+}
+.center{
+    background-color: rgba(5, 151, 160, 0.15);
+    padding: 85px 45px 0 45px;
+}
+.right{
+    background-color: rgba(71, 125, 17, 0.15);
+    padding: 85px 45px 0 45px;
+}
+.flower-center{
+    margin: 0 24px 0 24px;
+}
+
+
+
+
+
 
     
 
