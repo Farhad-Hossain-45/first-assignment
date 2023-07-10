@@ -121,6 +121,32 @@ padding: 85px 45px 0 45px;
 .delivery-discription{
     text-align: center;
 }
+.sales-section{
+   
+    width: 1920px;
+    height: 550px;
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 128px;
+    padding: 0 150px;
+}
+.sales-title{
+    color: #272727;
+    font-size: 45px;
+}
+.sales-span{
+    color: #E55473;
+}
+.sales-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin: 24px 0;
+}
+.sales-btn{
+    margin-left:200px ;
+}
 
 
 
