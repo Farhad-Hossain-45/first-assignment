@@ -147,6 +147,21 @@ padding: 85px 45px 0 45px;
 .sales-btn{
     margin-left:200px ;
 }
+.instagram{
+    margin-top: 100px;
+}
+.instagram-img{
+    width: 290px;
+    height: 340px;
+}
+.instagram-container{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    justify-content: center;
+}
+    
+
 
 
 
