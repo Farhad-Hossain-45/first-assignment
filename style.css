@@ -131,6 +131,7 @@ padding: 85px 45px 0 45px;
     align-items: center;
     margin-top: 128px;
     padding: 0 150px;
+    
 }
 .sales-title{
     color: #272727;
@@ -148,7 +149,7 @@ padding: 85px 45px 0 45px;
     margin-left:200px ;
 }
 .instagram{
-    margin-top: 100px;
+    margin-top: 120px;
 }
 .instagram-img{
     width: 290px;
@@ -160,6 +161,53 @@ padding: 85px 45px 0 45px;
     gap: 24px;
     justify-content: center;
 }
+.facebook{
+    margin-bottom: 128px;
+}
+.form-section{
+    background-image: url(Rectangle\ 9.png);
+    width: 1235px;
+    height: 449px;
+    margin: 0 auto;
+    text-align: center;
+   
+
+/* border-radius: 8px; */
+
+}
+.form-title{
+    color: #272727;
+    font-size: 40px;
+    margin-top: 200px;
+}
+.form-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    /* margin-top: 90px;
+    margin-bottom: 100px; */
+}
+.form-container{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+#email{
+    width: 600px;
+    height: 55px;
+    border: none;
+    border-radius: 10px;
+}
+.form-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
     
 
 
