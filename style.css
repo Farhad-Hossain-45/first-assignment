@@ -112,9 +112,10 @@ padding: 85px 45px 0 45px;
     width: 88px;
     height: 88px;
    margin-bottom: 10px;
+}
    
     
-}
+
 .fresh-flower{
     margin: 0 100px;
 }
@@ -170,11 +171,10 @@ padding: 85px 45px 0 45px;
     height: 449px;
     margin: 0 auto;
     text-align: center;
-   
-
-/* border-radius: 8px; */
-
+   /* border-radius: 8px; */
 }
+
+
 .form-title{
     color: #272727;
     font-size: 40px;
@@ -204,6 +204,36 @@ padding: 85px 45px 0 45px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.footer-section{
+    width: 1920px;
+    height: 420px;
+    background-color: #111010;
+    text-align: center;
+    margin-top: 128px;
+}
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footer-title{
+    color: white;
+    font-size: 48px;
+    margin-top: 150px;
+    
+}
+.footer-discription{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    margin-bottom: 30px;
+    margin-top: 24px;
+}
+.footer-copyright{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
 }
 
 
